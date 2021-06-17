@@ -1,8 +1,7 @@
-![Capture](https://user-images.githubusercontent.com/84874597/122331170-ff47b480-cef9-11eb-897a-4242aed9d30c.PNG)
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
-!Virtual Machine Diagram   (Images/diagram_filename.png)
+![Virtual Network Diagram](https://user-images.githubusercontent.com/84874597/122331170-ff47b480-cef9-11eb-897a-4242aed9d30c.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
