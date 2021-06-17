@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/84874597/122331170-ff47b480-cef9-11eb-897a-4242aed9d30c.PNG)
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
