@@ -2,11 +2,11 @@
 
 The files in this repository were used to configure the network depicted below.
 
-<a href="https://github.com/SyedIzia/SyedCyber/blob/main/Diagrams/VM_Network%20Diagram.png">Virtual Machine</a>
+<a href="https://github.com/SyedIzia/SyedCyber/blob/main/Diagrams/VM_Network%20Diagram.png">Virtual Machine Diagram</a>
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Ansible file may be used to install only certain pieces of it, such as Filebeat.
 
-[Ansible](https://github.com/SyedIzia/SyedCyber/tree/main/Ansible)
+[Ansible_Playbook_Files](https://github.com/SyedIzia/SyedCyber/tree/main/Ansible)
 
 This document contains the following details:
 - Description of the Topologu
