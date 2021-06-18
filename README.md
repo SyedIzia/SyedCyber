@@ -72,8 +72,7 @@ The playbook implements the following tasks:
 
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
-
-[TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![Capture](https://user-images.githubusercontent.com/84874597/122496280-18f80300-cfb1-11eb-96a4-64afd11eb63e.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
@@ -97,10 +96,3 @@ SSH into the control node and follow the steps below:
 - Copy the Ansible file to etc/ansible.
 - Update the hosts file to include webservers ip addresses and webservers group
 - Run the playbook, and navigate to Virtual Machine to check that the installation worked as expected.
-
-_TODO: Answer the following questions to fill in the blanks:_
-- _Which file is the playbook? Ansible Playbook Where do you copy it?_
-- _Which file do you update to make Ansible run the playbook on a specific machine? How do I specify which machine to install the ELK server on versus which to install Filebeat on?_
-- _Which URL do you navigate to in order to check that the ELK server is running?
-
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
